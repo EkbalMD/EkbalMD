@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Md Ekbal graduate in ECE enginnering 
+- 👋 Hey, I’m Md Ekbal graduate in ECE engineering 
 - 👀 I’m interested in learning and exploring the new skills and opprtunity
 - 🌱 I’m currently learning Data Science 
 
