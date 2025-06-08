@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning(bootcamp) Data Science at odin school
 - 👀 I’m a data enthusiast,interested in data collection,exploration,and visualization
 - 👀 Looking For new opportunities in data science/analytics
+- Connect me on <a href="https://www.linkedin.com/in/mdekbal22">LinkedIn</a>
 
 
 
